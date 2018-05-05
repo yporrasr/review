@@ -1,4 +1,4 @@
-//aplicacion de ODE al algoritmo de euler para resolver ecuaciones diferenciales
+// ODE con algoritmo de euler para resolver ecuaciones diferenciales//APLICADO AL OSCILADOR ARMONICO
 
 #include <iostream>
 #include <vector>
